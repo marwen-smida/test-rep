@@ -1,4 +1,5 @@
 Hello from local git repo
 Try to merge everything here
 hello from github
+Here new changes from github
 END OF LINE
